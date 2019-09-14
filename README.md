@@ -1,7 +1,7 @@
 # Module: MMM-EMTValencia
 This [MagicMirror](https://github.com/MichMich/MagicMirror) module displays information about estimations for bus stops in the city of Valencia (Spain). The service is provided by EMT Valencia. Supports **English** (*en*), **Spanish** (*es*) and **Catalan** (*ca*).
 
-<center><img src="screenshot01.png" alt="Module screen" width="400"></center>
+<center><img src="https://theraulxp.es/legacy/emt_magicmirror.png" alt="Module screen" width="400"></center>
 
 ## Dependencies
 - An installation of [MagicMirror<sup>2</sup>](https://github.com/MichMich/MagicMirror)
