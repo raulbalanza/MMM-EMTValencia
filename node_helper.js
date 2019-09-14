@@ -71,8 +71,8 @@ module.exports = NodeHelper.create({
                         for (var i=0; i<p.length; i++){
                             elem = p[i]
                             
-                            console.log(self.langFile)
-                            console.log(elem);
+                            // console.log(self.langFile)
+                            // console.log(elem);
 
                             resp = elem["linea"] + " - " + elem["destino"] + " | ";
                             
