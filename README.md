@@ -60,4 +60,4 @@ The following properties can be configured:
 | ---------------------------- | -----------
 | `stopNumber`                 | ID number of the bus stop.<br><br>**Required**<br>**Value type:** `Integer`<br>**Default value:** `683`
 | `stopLine`                 | Bus line to filter, ignoring other lines that share the same stop.<br><br>**Value type:** `Integer`<br>**Default value:** ` null ` (Show every line from the stop)
-| `updateInterval`             | Time (in seconds) to wait before refreshing the data from the API.<br><br>**Value type:** `Integer`<br>**Default value:** `10`
+| `updateInterval`             | Time (in seconds) to wait before refreshing the data from the API.<br><br>**Required**<br>**Value type:** `Integer`<br>**Default value:** `10`
