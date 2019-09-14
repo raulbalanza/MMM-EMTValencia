@@ -1,0 +1,8 @@
+{
+    "BUS_STOP" : "Parada",
+    "WAIT_INFO": "Esperando información",
+    "UPDATED": "Actualizado",
+    "NO_DATA": "SIN ESTIMACIONES",
+    "DIVERTED_LINE": "DESVIADA",
+    "GENERIC_ERROR": "Error"
+}

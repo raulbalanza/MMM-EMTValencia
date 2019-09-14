@@ -1,0 +1,8 @@
+{
+    "BUS_STOP" : "Stop",
+    "WAIT_INFO": "Waiting for information",
+    "UPDATED": "Updated",
+    "NO_DATA": "NO DATA",
+    "DIVERTED_LINE": "DIVERTED",
+    "GENERIC_ERROR": "Error"
+}
