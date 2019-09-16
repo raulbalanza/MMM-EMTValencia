@@ -19,7 +19,7 @@ module.exports = NodeHelper.create({
         switch (notification){
 
             case "EMT_LANGUAGE":
-                var lFile = "./translations/" + payload + ".json";
+                var lFile = "./modules/MMM-EMTValencia/translations/" + payload + ".json";
                 var lCont;
 
                 if (fs.existsSync(lFile)){
