@@ -27,7 +27,7 @@ npm install
 Configure the module in your `config.js` file.
 
 ## Find your stop number
-To configure this module, you will need a stop number, and, optionally, the line number which you want to get information about. The stop number can be found by looking for the it at EMT Valencia's website.  
+To configure this module, you will need a stop number, and, optionally, the line number which you want to get information about. The stop number can be found by looking for it at EMT Valencia's website.  
 
 
 [EMT Valencia's website](http://www.emtvalencia.es/)
